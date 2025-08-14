@@ -1,0 +1,73 @@
+obs,fac,trat
+150,winp,pat
+185.4,winp,pat
+352,winp,pat
+18,pen,pat
+50.6,pen,pat
+60,pen,pat
+1,sday,pat
+12.9,sday,pat
+62,sday,pat
+0.02,bhh,pat
+0.032,bhh,pat
+0.05,bhh,pat
+5.4,smrsprpb ,pat
+5.4,smrsprpb ,pat
+5.7,smrsprpb ,pat
+2000,elev,pat
+2262.9,elev,pat
+2850,elev,pat
+1100,gsp,pat
+1118.7,gsp,pat
+1800,gsp,pat
+450,smrp,pat
+489.6,smrp,pat
+800,smrp,pat
+250,winp,pse
+252,winp,pse
+340,winp,pse
+28,pen,pse
+52.5,pen,pse
+62,pen,pse
+30,sday,pse
+56,sday,pse
+60,sday,pse
+0.01,bhh,pse
+0.026,bhh,pse
+0.033,bhh,pse
+5.4,smrsprpb ,pse
+5.5,smrsprpb ,pse
+5.9,smrsprpb ,pse
+2500,elev,pse
+2613,elev,pse
+2750,elev,pse
+1200,gsp,pse
+1385.3,gsp,pse
+1800,gsp,pse
+600,smrp,pse
+615.1,smrp,pse
+840,smrp,pse
+248,winp,mac
+336.4,winp,mac
+348,winp,mac
+10,pen,mac
+15.5,pen,mac
+60,pen,mac
+25,sday,mac
+55.6,sday,mac
+65,sday,mac
+0.01,bhh,mac
+0.019,bhh,mac
+0.02,bhh,mac
+5.6,smrsprpb ,mac
+5.6,smrsprpb ,mac
+5.7,smrsprpb ,mac
+2700,elev,mac
+2775.1,elev,mac
+2900,elev,mac
+1350,gsp,mac
+1782.2,gsp,mac
+1900,gsp,mac
+550,smrp,mac
+807.5,smrp,mac
+880,smrp,mac
